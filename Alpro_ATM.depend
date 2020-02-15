@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1580871357 source:c:\users\raif haidar darmawan\documents\code blocks\alpro_atm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
